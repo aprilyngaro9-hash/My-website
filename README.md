@@ -1,5 +1,4 @@
 # My-website
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -84,8 +83,7 @@
         <a href="#contact">Contact</a>
     </nav>
 
- <div class="explore!</h3>
-        <p>We offer a delightful range of freshly baked bread and pastry products. Made with love and the finest ingredients, our treats are perfect for any occasion.</p>
+ <div class="This products is a delightful range of freshly baked bread and pastry products. Made with love and the finest ingredients, our treats are perfect for any occasion.</p>
     </div>
 
    <div class="container" id="products">
